@@ -1,6 +1,6 @@
 +++
-title =  "prepare-chicken-salad"
-date = "2024-06-17 21:00 -0500"
+title =  "Prepare Chicken Salad"
+date = "2024-06-16 21:35:34.376 -0500" 
 description = "Preparing chicken salad with some left-over supplies"
 author = "Justin Napolitano"
 tags = ['cooking']
