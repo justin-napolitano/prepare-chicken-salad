@@ -4,7 +4,7 @@ date = "2024-06-17 21:00 -0500"
 description = "Preparing chicken salad with some left-over supplies"
 author = "Justin Napolitano"
 tags = ['cooking']
-images = [./images/dinner.jpg]
+images = ["./images/dinner.jpg"]
 +++
 
 ![dinner](./images/dinner.jpg)
