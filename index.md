@@ -5,6 +5,7 @@ description = "Preparing chicken salad with some left-over supplies"
 author = "Justin Napolitano"
 tags = ['cooking']
 images = ["./images/dinner.jpg"]
+categories = ['Personal']
 +++
 
 ![dinner](./images/dinner.jpg)
