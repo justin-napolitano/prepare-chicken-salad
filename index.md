@@ -20,6 +20,14 @@ seoSecondaryKeywords:
   - cooking documentation
   - food waste reduction
 seoOptimized: true
+topicFamily: personal
+topicFamilyConfidence: 0.9
+topicFamilyNotes: >-
+  The post is a detailed, personal documentation of a cooking process focused on efficient use of
+  leftovers, food waste reduction, and practical lifestyle habits. It matches best with the
+  'Personal' family, which covers personal journals, dietary logs, and reflections about health and
+  food consumption. No other family aligns well with a culinary recipe-focused, personal
+  documentation.
 ---
 
 # Technical Reference: Preparing Chicken Salad with Leftover Ingredients
@@ -72,4 +80,5 @@ The process is iterative, with tasting after each addition to adjust flavor bala
 ## Conclusion
 
 This repository exemplifies a pragmatic approach to food preparation documentation. It emphasizes resourcefulness and simplicity, providing a clear reference for recreating a chicken salad from leftovers. The markdown format ensures easy access and modification for future iterations or related recipes.
+
 
