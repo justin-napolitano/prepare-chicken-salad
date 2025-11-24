@@ -1,12 +1,26 @@
 ---
-slug: "github-prepare-chicken-salad"
-title: "prepare-chicken-salad"
-repo: "justin-napolitano/prepare-chicken-salad"
-githubUrl: "https://github.com/justin-napolitano/prepare-chicken-salad"
-generatedAt: "2025-11-23T09:24:57.170495Z"
-source: "github-auto"
+slug: github-prepare-chicken-salad
+title: Technical Reference for Preparing Chicken Salad from Leftover Rotisserie Chicken
+repo: justin-napolitano/prepare-chicken-salad
+githubUrl: https://github.com/justin-napolitano/prepare-chicken-salad
+generatedAt: '2025-11-23T09:24:57.170495Z'
+source: github-auto
+summary: >-
+  Documentation of a step-by-step process to create a flavorful chicken salad using leftover
+  rotisserie chicken and common kitchen ingredients.
+tags:
+  - cooking
+  - food-waste
+  - recipe
+  - chicken-salad
+  - leftovers
+seoPrimaryKeyword: chicken salad recipe
+seoSecondaryKeywords:
+  - leftover chicken
+  - cooking documentation
+  - food waste reduction
+seoOptimized: true
 ---
-
 
 # Technical Reference: Preparing Chicken Salad with Leftover Ingredients
 
@@ -58,3 +72,4 @@ The process is iterative, with tasting after each addition to adjust flavor bala
 ## Conclusion
 
 This repository exemplifies a pragmatic approach to food preparation documentation. It emphasizes resourcefulness and simplicity, providing a clear reference for recreating a chicken salad from leftovers. The markdown format ensures easy access and modification for future iterations or related recipes.
+
