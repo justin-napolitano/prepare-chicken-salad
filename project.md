@@ -7,8 +7,8 @@ githubUrl: https://github.com/justin-napolitano/prepare-chicken-salad
 generatedAt: '2025-11-24T21:35:55.270Z'
 source: github-auto
 summary: >-
-  This repository provides a straightforward guide to preparing chicken salad
-  using leftover ingredients and common kitchen items.
+  This repository provides a straightforward guide to preparing chicken salad using leftover
+  ingredients and common kitchen items.
 tags:
   - markdown
   - recipe documentation
@@ -22,8 +22,8 @@ seoSecondaryKeywords:
   - nutritious meals
   - meal prep ideas
 seoOptimized: true
-topicFamily: null
-topicFamilyConfidence: null
+topicFamily: personal
+topicFamilyConfidence: 0.9
 kind: project
 entryLayout: project
 showInProjects: true
@@ -80,4 +80,5 @@ prepare-chicken-salad/
 ---
 
 This repository is primarily a personal documentation of a cooking process rather than a software project.
+
 
