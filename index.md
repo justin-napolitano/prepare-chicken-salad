@@ -1,33 +1,43 @@
 ---
 slug: github-prepare-chicken-salad
-title: Technical Reference for Preparing Chicken Salad from Leftover Rotisserie Chicken
+title: Efficient Chicken Salad Recipe Using Leftover Ingredients
 repo: justin-napolitano/prepare-chicken-salad
 githubUrl: https://github.com/justin-napolitano/prepare-chicken-salad
 generatedAt: '2025-11-23T09:24:57.170495Z'
 source: github-auto
 summary: >-
-  Documentation of a step-by-step process to create a flavorful chicken salad using leftover
-  rotisserie chicken and common kitchen ingredients.
+  A straightforward guide to preparing chicken salad with leftover rotisserie
+  chicken and common ingredients to minimize food waste.
 tags:
   - cooking
   - food-waste
   - recipe
   - chicken-salad
   - leftovers
-seoPrimaryKeyword: chicken salad recipe
-seoSecondaryKeywords:
-  - leftover chicken
-  - cooking documentation
+  - markdown
+  - recipe documentation
   - food waste reduction
+  - chicken salad
+  - leftover meals
+seoPrimaryKeyword: chicken salad recipe with leftovers
+seoSecondaryKeywords:
+  - leftover rotisserie chicken
+  - easy chicken salad
+  - cooking with leftovers
+  - meal prep
+  - quick recipes
 seoOptimized: true
 topicFamily: personal
 topicFamilyConfidence: 0.9
 topicFamilyNotes: >-
-  The post is a detailed, personal documentation of a cooking process focused on efficient use of
-  leftovers, food waste reduction, and practical lifestyle habits. It matches best with the
-  'Personal' family, which covers personal journals, dietary logs, and reflections about health and
-  food consumption. No other family aligns well with a culinary recipe-focused, personal
+  The post is a detailed, personal documentation of a cooking process focused on
+  efficient use of leftovers, food waste reduction, and practical lifestyle
+  habits. It matches best with the 'Personal' family, which covers personal
+  journals, dietary logs, and reflections about health and food consumption. No
+  other family aligns well with a culinary recipe-focused, personal
   documentation.
+kind: project
+id: github-prepare-chicken-salad
 ---
 
 # Technical Reference: Preparing Chicken Salad with Leftover Ingredients
